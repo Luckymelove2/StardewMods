@@ -282,7 +282,7 @@
     ** Item > generic lookups
     *********/
     // labels
-    "item.custom-item": "Custom item", // TODO
+    "item.custom-item": "来源", // TODO
     "item.contents": "内容",
     "item.loves-this": "最爱",
     "item.likes-this": "喜欢",
@@ -301,7 +301,7 @@
     "item.produces-dye": "产生染料",
 
     // values
-    "item.custom-item.summary": "added by {{modName}}", // TODO
+    "item.custom-item.summary": "来自 {{modName}}", // TODO
     "item.contents.placed": "已放置{{name}}",
     "item.contents.ready": "目前{{name}}",
     "item.contents.partial": "{{name}}在{{time}}后完成",
@@ -623,9 +623,9 @@
     "tree.next-growth.winter": "除非施肥，冬天在温室之外无法生长",
     "tree.next-growth.adjacent-trees": "因其他树靠的太近无法生长",
     "tree.next-growth.chance": "有{{chance}}%几率明天成长到{{stage}}",
-    "tree.seed.not-ready": "Not ready", // TODO
-    "tree.seed.probability-daily": "{{chance}}% chance of {{itemName}} each day.", // TODO
-    "tree.seed.probability-on-chop": "{{chance}}% chance of dropping {{itemName}} when chopped down.", // TODO
+    "tree.seed.not-ready": "未产出", // TODO
+    "tree.seed.probability-daily": "每天 {{chance}}% 几率产出 {{itemName}}", // TODO
+    "tree.seed.probability-on-chop": "砍倒时 {{chance}}% 掉落 {{itemName}}", // TODO
 
     // growth stages
     "tree.stages.seed": "种子",
